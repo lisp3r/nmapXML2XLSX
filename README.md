@@ -1,9 +1,22 @@
-# nmapXML2XLSX
-`nmap` XML (`-oX`) to `xlsx` convertor.
+<h1 align="center">nmapXML2XLSX</h1>
+<div align="center">
+  nmap's XML output to xlsx convertor<br>
+   <br>
+  <img alt="GitHub License" src="https://img.shields.io/github/license/lisp3r/AYO?style=for-the-badge&labelColor=blue&color=violet">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tested--on-Linux-violet?style=for-the-badge&logo=linux&logoColor=black&labelColor=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bash-violet?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=blue">
+  <p></p>
+    <a href="https://github.com/lisp3r/nmapXML2XLSX/blob/main/README.md#install">Install</a>
+  <span> • </span>
+	<a href="https://github.com/lisp3r/nmapXML2XLSX/blob/main/README.md#usage">Usage</a>
+  <p></p>
+</div>
+
 
 ## Install
 
 ```bash
+$ git clone https://github.com/lisp3r/nmapXML2XLSX && cd nmapXML2XLSX
 $ sudo ln -s `pwd`/nmapXML2XLSX.py /usr/local/bin/nmapXML2XLSX
 ```
 
